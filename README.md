@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ekrem SAYDAM</h1>
 <h3 align="center">Project manager and Full-stack software developer from Turkey.</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekremsaydam&label=Profile%20views&color=0e75b6&style=flat" alt="ekremsaydam" /> </p>
 <!--![ekremsaydam](https://github-profile-trophy.vercel.app/?username=ekremsaydam&theme=onedark)-->
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ekremsaydam&theme=discord&no-bg=false&no-frame=false&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="ekremsaydam" /> </p>
